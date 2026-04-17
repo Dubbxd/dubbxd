@@ -54,14 +54,6 @@ const angel: Developer = {
 
 ---
 
-### Trofeos
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dubbxd&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
-</div>
-
----
-
 ### Contacto
 
 <div align="center">
