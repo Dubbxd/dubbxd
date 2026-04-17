@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&customColorList=0,2,2,5,30&height=220&section=header&text=Angel+Torres&fontSize=65&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=Dev+%26+Marketing+%40+DevChefs.mx&descAlignY=62&descSize=17&descColor=EEEEEE)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=3000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Angel+Torres;Dev+%26+Marketing+%40+DevChefs.mx)](https://devchefs.mx)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FFFFFF&background=00000000&center=true&vCenter=true&width=650&height=55&lines=Convirtiendo+ideas+en+software+real.;Connected+Software+Studio+%7C+Tijuana+MX;Dev+%26+Marketing+%40+DevChefs.mx;Software+a+la+medida+%2B+IA+%2B+Cloud.)](https://devchefs.mx)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=2500&pause=800&color=AAAAAA&background=000000&center=true&vCenter=true&width=700&height=40&lines=Convirtiendo+ideas+en+software+real.;Connected+Software+Studio+%7C+Tijuana+MX;Software+a+la+medida+%2B+IA+%2B+Cloud.)](https://devchefs.mx)
 
 </div>
 
@@ -50,26 +50,7 @@ const angel: Developer = {
 
 </div>
 
----
 
-### Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dubbxd&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dubbxd&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dubbxd&theme=github-dark-blue&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888&stroke=333333" />
-</div>
-
----
-
-### Actividad
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dubbxd&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=333333&area=true&hide_border=true&title_color=ffffff" />
-</div>
 
 ---
 
