@@ -1,19 +1,8 @@
 <div align="center">
 
-<!-- Header banner con animación scaleIn -->
-<picture>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:000000&height=220&section=header&text=Angel%20Torres&fontSize=65&fontColor=FFFFFF&animation=scaleIn&fontAlignY=40&desc=Dev%20%26%20Marketing%20%C2%B7%20DevChefs.mx&descAlignY=62&descSize=17&descColor=CCCCCC&stroke=FFFFFF&strokeWidth=1" width="100%" />
-</picture>
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&customColorList=0,2,2,5,30&height=220&section=header&text=Angel+Torres&fontSize=65&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=Dev+%26+Marketing+%40+DevChefs.mx&descAlignY=62&descSize=17&descColor=EEEEEE)
 
-<!-- Typing animado -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&height=55&lines=Convirtiendo+ideas+en+software+real.;Connected+Software+Studio+%7C+Tijuana+MX;Dev+%26+Marketing+%40+DevChefs.mx;Software+a+la+medida+%C2%B7+IA+%C2%B7+Cloud.)](https://git.io/typing-svg)
-
-<!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dubbxd/Dubbxd/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dubbxd/Dubbxd/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Dubbxd/Dubbxd/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FFFFFF&background=00000000&center=true&vCenter=true&width=650&height=55&lines=Convirtiendo+ideas+en+software+real.;Connected+Software+Studio+%7C+Tijuana+MX;Dev+%26+Marketing+%40+DevChefs.mx;Software+a+la+medida+%2B+IA+%2B+Cloud.)](https://devchefs.mx)
 
 </div>
 
