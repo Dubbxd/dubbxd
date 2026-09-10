@@ -50,7 +50,15 @@ const angel: Developer = {
 
 </div>
 
+---
 
+### GitHub Streak
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dubbxd&theme=github-dark-blue&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888&stroke=333333)
+
+</div>
 
 ---
 
